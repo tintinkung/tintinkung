@@ -1,5 +1,5 @@
 ### Hi I'm tintinkung 
-## I'm a 15 yeard old boy Interested in computers and graphic stuff
+## I'm a 15 yearsold boy Interested in computers and graphic stuff
 - Indie developer Interested in 3d modelling, environment managing,  Game Making, Coding and more!
 - currently learning C++ with visual studio
 ---
